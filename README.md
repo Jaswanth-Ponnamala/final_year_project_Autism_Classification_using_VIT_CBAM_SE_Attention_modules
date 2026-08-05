@@ -1,0 +1,2 @@
+# final_year_project_Autism_Classification_using_VIT_CBAM_SE_Attention_modules
+This project implements an automated ASD screening tool using a Hybrid Vision Transformer (ViT) combined with Spatial CBAM and Squeeze-and-Excitation (SE) attention modules. It models global facial geometry while refining subtle local landmarks. Includes an interactive Streamlit UI with automated face and quality validation.
